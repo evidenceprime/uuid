@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "sideEffects": false,
-  "main": "./dist/uuid.js.js",
+  "main": "./dist/uuid.js",
   "files": [
     "CHANGELOG.md",
     "CONTRIBUTING.md",
